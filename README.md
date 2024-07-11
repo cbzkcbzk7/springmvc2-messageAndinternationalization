@@ -1,0 +1,2 @@
+# springmvc2-messageAndinternationalization
+About message internationalization with SpringBoot
